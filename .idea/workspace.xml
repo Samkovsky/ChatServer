@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1d21a42-bde7-4994-88c9-cda58c9a5700" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChatClient/ChatClient.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChatServer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/ClientRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Message.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChatClient/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ChatServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,12 +70,8 @@
       <file leaf-file-name="Server.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="31" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.86233765" vertical-offset="960" max-vertical-offset="1530">
-              <folding>
-                <element signature="e#380#395#0" expanded="true" />
-                <element signature="e#1462#1463#0" expanded="true" />
-                <element signature="e#1496#1497#0" expanded="true" />
-              </folding>
+            <state line="86" column="31" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.6331058" vertical-offset="887" max-vertical-offset="1496">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,17 +79,8 @@
       <file leaf-file-name="Message.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-              <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-              </folding>
+            <state line="15" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="595">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,7 +88,7 @@
       <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChatClient/src/main/java/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="9" selection-start="1716" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="619" max-vertical-offset="1207">
+            <state line="56" column="9" selection-start="1716" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="1292">
               <folding />
             </state>
           </provider>
@@ -137,7 +106,7 @@
       <file leaf-file-name="Runner.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="27" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+            <state line="7" column="27" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
@@ -706,12 +675,18 @@
       <workItem from="1395930650908" duration="9123000" />
       <workItem from="1396361795685" duration="1832000" />
       <workItem from="1396363766541" duration="1786000" />
-      <workItem from="1396365574603" duration="1702000" />
+      <workItem from="1396365574603" duration="1793000" />
+      <workItem from="1396367394916" duration="558000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1396367326863</created>
+      <updated>1396367326863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23163000" />
+    <option name="totallyTimeSpent" value="23812000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -746,22 +721,22 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3611111" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25981873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28700906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2369281" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -777,7 +752,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -789,28 +765,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="31" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.0" vertical-offset="1462" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatClient/src/main/java/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="9" selection-start="1716" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatClient/src/main/java/ClientRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="27" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="45" selection-start="2099" selection-end="2099" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
-          <folding>
-            <element signature="e#380#395#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="32" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="459">
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -838,27 +836,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="33" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
-          <folding>
-            <element signature="e#380#395#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="27" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="459">
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -886,27 +871,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="72" column="0" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1615">
-          <folding>
-            <element signature="e#380#395#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -934,11 +906,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="29" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
-          <folding>
-            <element signature="e#380#395#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,27 +974,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding>
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="31" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.86233765" vertical-offset="960" max-vertical-offset="1530">
-          <folding>
-            <element signature="e#380#395#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
+        <state line="86" column="31" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.6331058" vertical-offset="887" max-vertical-offset="1496">
+          <folding />
         </state>
       </provider>
     </entry>
