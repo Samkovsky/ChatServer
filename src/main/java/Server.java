@@ -11,7 +11,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
-
+import java.io.*;
 public class Server {
     private List<ClientHandler> clients = new ArrayList<ClientHandler>();
 
@@ -35,7 +35,11 @@ public class Server {
         serverSocket.close();
     }
 
-    private void saveToHistory(Message message){
+    private void saveToHistory(Message message) throws IOException{
+        File file = new File("History.txt");
+        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(file)));
+        out.print(message);
+        out.close();
        // TODO : Save to file
         // file append
         // 1 - text file
